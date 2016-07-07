@@ -41,9 +41,9 @@
 									Purpose and Background
 								</dt>
 								<dd>
-									Strengthen business capabilities through coaching and education on early startup entrepreneurs<br />
-									Provide the place of sharing exchange and knowledge to promote cooperation among companies<br />
-									Arrange a meeting place for mentor activities and liaison between students and alumni companies
+									ㆍStrengthen business capabilities through coaching and education on early startup entrepreneurs<br />
+									ㆍProvide the place of sharing exchange and knowledge to promote cooperation among companies<br />
+									ㆍArrange a meeting place for mentor activities and liaison between students and alumni companies
 								</dd>
 							</dl>
 						</li>
@@ -53,9 +53,9 @@
 									Event Overview
 								</dt>
 								<dd>
-									Date Every quarter (held 4 times a year)<br />
-									Participants KOSDAQ CEOs and startup Entrepreneur, executives and CEOs of medium-sized/large companies, prospective CEOs, experts of each field<br />
-									Details Topic lectures on the common issues of management on-site, discussions, mentoring hours, networks support, etc.
+									ㆍDate : Every quarter (held 4 times a year)<br />
+									ㆍParticipants : KOSDAQ CEOs and startup Entrepreneur, executives and CEOs of medium-sized/large companies, prospective CEOs, experts of each field<br />
+									ㆍDetails : Topic lectures on the common issues of management on-site, discussions, mentoring hours, networks support, etc.
 								</dd>
 							</dl>
 						</li>

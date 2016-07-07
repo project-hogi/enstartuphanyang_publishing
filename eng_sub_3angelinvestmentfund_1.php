@@ -39,7 +39,7 @@
 									ㆍDate Established November 29, 2011<br />
 									ㆍClub Presidents Changwan Ryu, Youngjun Choi (co-presidents)<br />
 									ㆍNumber of Members 54 (as of late September, 2014) <br />
-									ㆍIncludes experts of related fields such as former and present Hanyang Venture Alumni president, KOSDAQ CEO, VC (Venture Capitalist), patent attorneys, lawyers, accountants, etc.
+									-> Includes experts of related fields such as former and present Hanyang Venture Alumni president, KOSDAQ CEO, VC (Venture Capitalist), patent attorneys, lawyers, accountants, etc.
 								</dd>
 							</dl>
 						</li>
@@ -49,20 +49,19 @@
 									Major Activities
 								</dt>
 								<dd>
-									ㆍDiscover and foster promising startup and venture companies with future growth potential founded by Hanyang University alumni<br />
-									ㆍFacilitate the commercialization of excellent patent technology owned by Hanyang University<br />
-									ㆍArrange the place of information exchange between angel investors and companies, and support the connection to attract investment 
+									ㆍHolds regular IR (once every other months)<br>
+									ㆍExecute investment and attract joint investment of SMBA'S angel matching funds 
 								</dd>
 							</dl>
 						</li>
 						<li>
 							<dl>
 								<dt>
-									Investment Records
+									Investment Process
 								</dt>
 								<dd>
 									ㆍ2.6 billion KRW (1.51 billion KRW by Angel Club’s direct investment, 1.5 billion KRW by government matching)<br />
-									ㆍDetails of Angel Club’s direct investment: 150 million KRW in 2012 (twice), 1.17 billion KRW in 2013 (7 investments), 250 million KRW in 2014 (twice), 360 million KRW in 2015 (once)
+									<span>※Details of Angel Club’s direct investment: 150 million KRW in 2012 (twice), 1.17 billion KRW in 2013 (7 investments), 250 million KRW in 2014 (twice), 360 million KRW in 2015 (once)</span>
 								</dd>
 							</dl>
 						</li>

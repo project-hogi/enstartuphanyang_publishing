@@ -29,9 +29,6 @@
 					<h3>
 						Center for Business Incubation
 					</h3>
-					<p class="txt1">
-						Venturing Space Sponsored by Alumni is a business incubating space in which alumni venture entrepreneurs directly support the fees for using startup spaces by beginning entrepreneurs, mentoring, investment connection, and follow-up management.
-					</p>
 					<h4>
 						How to Apply for Move-in
 					</h4>
@@ -42,8 +39,8 @@
 									Location
 								</th>
 								<td>
-									Hall 1 B1~B2, Hanyang Institute of Technology (HIT), Hanyang University, 222 Wangshimni-ro, Seongdong-gu, Seoul<br />
-									Hall 2 8~9thfloors, Research Building, Hanyang University, 222 Wangshimni-ro, Seongdong-gu, Seoul 
+									Hall 1 : B1~B2, Hanyang Institute of Technology (HIT), Hanyang University, 222 Wangshimni-ro, Seongdong-gu, Seoul<br />
+									Hall 2 : 8~9thfloors, Research Building, Hanyang University, 222 Wangshimni-ro, Seongdong-gu, Seoul 
 								</td>
 							</tr>
 							<tr>
@@ -93,9 +90,9 @@
 									Period and Method
 								</th>
 								<td>
-									Application Period – When there are empty rooms<br />
-									How to Apply Email application (center@hanyang.ac.kr) <br />
-									Required documents [designated forms] move-in application form, business plans, [free form] business-related materials, 
+									Application Period : When there are empty rooms<br />
+									How to Apply : Email application (center@hanyang.ac.kr) <br />
+									Required documents : [designated forms] move-in application form, business plans, [free form] business-related materials, 
 									other documentary evidence
 								</td>
 							</tr>

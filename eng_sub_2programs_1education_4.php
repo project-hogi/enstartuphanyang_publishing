@@ -48,8 +48,8 @@
 							Expected Effects
 						</dt>
 						<dd>
-							Contribute to stable business development by making intellectual property rights for startup items<br />
-							Can create a new business model combining university-owned technology and the unused ideas of large companies
+							ㆍContribute to stable business development by making intellectual property rights for startup items<br />
+							ㆍCan create a new business model combining university-owned technology and the unused ideas of large companies
 						</dd>
 					</dl>
 				</div><!-- //education_venture -->

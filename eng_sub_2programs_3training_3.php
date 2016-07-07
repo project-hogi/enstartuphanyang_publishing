@@ -68,23 +68,13 @@
 								</dd>
 							</dl>
 						</li>
-						<li>
+						<li class="last">
 							<dl>
 								<dt>
 									Administrator
 								</dt>
 								<dd>
 									ㆍHanyang University Center for Global Entrepreneurship 
-								</dd>
-							</dl>
-						</li>
-						<li class="last">
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2866, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>
@@ -136,16 +126,6 @@
 								</dt>
 								<dd>
 									ㆍHanyang University Center for Global Entrepreneurship 
-								</dd>
-							</dl>
-						</li>
-						<li>
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-1340, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>

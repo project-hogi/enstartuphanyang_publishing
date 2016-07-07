@@ -38,20 +38,20 @@
 						<li>
 							<dl>
 								<dt>
-									Participants
+									Date
 								</dt>
 								<dd>
-									100 of prospective entrepreneurs (including startup clubs), entrepreneurs, etc. 
+									1 regular meeting a year, frequent flashmob meetings per mentor
 								</dd>
 							</dl>
 						</li>
 						<li>
 							<dl>
 								<dt>
-									Date
+									Participants
 								</dt>
 								<dd>
-									1 regular meeting a year, frequent flashmob meetings per mentor
+									100 of prospective entrepreneurs (including startup clubs), entrepreneurs, etc. 
 								</dd>
 							</dl>
 						</li>

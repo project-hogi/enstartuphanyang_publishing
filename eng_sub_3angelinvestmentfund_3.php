@@ -11,17 +11,17 @@
 			<div id="container">
 				<div id="angel_crowd">
 					<h3>
-						Hanyang Youth Startup Fund
+						Crowd Funding
 					</h3>
 					<ul class="txt1">
 						<li>
-							ㆍCompanies that have creative ideas or business plans
+							① Companies that have creative ideas or business plans
 						</li>
 						<li>
-							ㆍuse “collective intelligence” on the online portal of brokerage
+							② use “collective intelligence” on the online portal of brokerage
 						</li>
 						<li>
-							ㆍand procure funds from many finance suppliers
+							③ and procure funds from many finance suppliers
 						</li>
 						<li>
 							ㆍCrowd funding is a compound term of English word ‘crowd’ that means mass of people and ‘funding’ that means financing. It refers to an act of
@@ -99,20 +99,16 @@
 							ㆍ<strong>Loan type </strong>is sometimes viewed as an investment contract securities.
 						</li>
 						<li>
-							ㆍ<strong>Donation type </strong>is used when there is no reward for finance suppliers or nonmonetary rewards (thank you cards, gifts, etc.) that are not directly associated with the provided<br />
-							&nbsp;&nbsp;fund is given. It is usually common in the fields of culture, art, and welfare.
+							ㆍ<strong>Donation type </strong>is used when there is no reward for finance suppliers or nonmonetary rewards (thank you cards, gifts, etc.) that are not directly associated with the provided fund is given. It is usually common in the fields of culture, art, and welfare.
 						</li>
 						<li>
-							ㆍ<strong>Sponsorship type </strong>is similar to donation type but is for when nonmonetary benefits that are directly associated with the purpose of fundraising are provided to finance <br />
-							&nbsp;&nbsp;suppliers asrewards.
+							ㆍ<strong>Sponsorship type </strong>is similar to donation type but is for when nonmonetary benefits that are directly associated with the purpose of fundraising are provided to finance suppliers asrewards.
 						</li>
 						<li>
-							ㆍ<strong>Loan type </strong>is used when interests are provided as benefits in return for financing. Individuals or business owners who cannot easily use financial companies such as banks raise<br />
-							&nbsp;&nbsp;funds through this. 
+							ㆍ<strong>Loan type </strong>is used when interests are provided as benefits in return for financing. Individuals or business owners who cannot easily use financial companies such as banks raise funds through this. 
 						</li>
 						<li>
-							ㆍ<strong>Securities type </strong>is used to allocate the profits gained from business by receiving securities and stocks as benefits in return for financing. Seed or startup companies usually<br />
-							&nbsp;&nbsp;become the demanders of funds.
+							ㆍ<strong>Securities type </strong>is used to allocate the profits gained from business by receiving securities and stocks as benefits in return for financing. Seed or startup companies usually become the demanders of funds.
 						</li>
 					</ul>
 					<ul class="btm_list">
@@ -122,7 +118,7 @@
 									CrowdNet
 								</dt>
 								<dd class="con">
-									In CrowdNet, which was built by the Korea Securities Depository as part of the support policy to develop the crowd funding market, the issuer and investor can view the issue and investment limits, and those interested in crowd funding can check 
+									In CrowdNet, which was built by the Korea Securities Depository as part of the support policy to develop the crowd funding market, the issuer and investor can view the issue and investment limits, and those interested in crowd funding can check related information and statistical data. 
 								</dd>
 								<dd class="logo">
 									<img src="img/fund/crowdnet_logo.png" alt="" />
@@ -141,7 +137,7 @@
 									OpenTrade
 								</dt>
 								<dd class="con">
-									OpenTrade is No.1 investment type crowd funding platform. It provides various services and networks besides financing such as mentoring, recruiting, and promotional marketing needed for startups. Please watch the growth of your company and invest in its 
+									OpenTrade is No.1 investment type crowd funding platform. It provides various services and networks besides financing such as mentoring, recruiting, and promotional marketing needed for startups. Please watch the growth of your company and invest in its future at OpenTrade! 
 								</dd>
 								<dd class="logo">
 									<img src="img/fund/opentrade_logo.png" alt="" />
@@ -160,7 +156,7 @@
 									Wadiz
 								</dt>
 								<dd class="con">
-									By going beyond the existing method of traditional financial institutions’ financial support based on high credit rating and profit rate, Wadiz Is sponsors the projects of individuals, companies, and groups that save people, warm the regions, clean the world, and 
+									By going beyond the existing method of traditional financial institutions’ financial support based on high credit rating and profit rate, Wadiz Is sponsors the projects of individuals, companies, and groups that save people, warm the regions, clean the world, and create a society for mutual growth.  
 								</dd>
 								<dd class="logo">
 									<img src="img/fund/wadiz_logo.png" alt="" />
@@ -179,7 +175,7 @@
 									Ucanstart
 								</dt>
 								<dd class="con">
-									Ucanstart leads a hybrid-type crowd funding that induces a positive cycle of ideas and investment. Through SNS, ucanstart connects investors to the various idea providers who engage in creation activities such as games, performances, art, photography, 
+									Ucanstart leads a hybrid-type crowd funding that induces a positive cycle of ideas and investment. Through SNS, ucanstart connects investors to the various idea providers who engage in creation activities such as games, performances, art, photography, and sports in the fields of art and culture. 
 								</dd>
 								<dd class="logo">
 									<img src="img/fund/ucanstart_logo.png" alt="" />

@@ -11,7 +11,7 @@
 			<div class="programs_tab">
 				<ul class="education_tab">
 					<li>
-						<a href="eng_sub_2programs_1education_1.php">Major in Entrepreneurship</a>
+						<a href="eng_sub_2programs_1education_1.php">Major in Center for Global <br>Entrepreneurship</a>
 					</li>
 					<li class="selected">
 						<a href="eng_sub_2programs_1education_2.php">Startup Lectures</a>
@@ -30,7 +30,7 @@
 						Startup Lectures
 					</h3>
 					<p class="txt1">
-						Students who have not applied for major in entrepreneurship can also take classes as their core courses.
+						Students who have not applied for major in Center for Global <br>Entrepreneurship can also take classes as their core courses.
 					</p>
 					<div class="table_w">
 						<table>
@@ -62,7 +62,7 @@
 							</tr>
 							<tr>
 								<td class="name">
-									Social Entrepreneurship
+									Social Center for Global <br>Entrepreneurship
 								</td>
 								<td>
 									2
@@ -83,7 +83,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -109,7 +109,7 @@
 									All semesters
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -126,7 +126,7 @@
 									0
 								</td>
 								<td>
-									Core Founda-
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Second year
@@ -135,7 +135,7 @@
 									All semesters
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -152,7 +152,7 @@
 									0
 								</td>
 								<td>
-									tion&#47;Major
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Second year
@@ -161,12 +161,12 @@
 									All semesters
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
 								<td class="name">
-									Startup Basic: Startup and Entrepreneurship
+									Startup Basic: Startup and Center for Global <br>Entrepreneurship
 								</td>
 								<td>
 									3
@@ -178,7 +178,7 @@
 									0
 								</td>
 								<td>
-									Intensive
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Second year
@@ -187,7 +187,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -204,7 +204,7 @@
 									0
 								</td>
 								<td>
-									Core Founda-
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Second year
@@ -213,7 +213,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -227,10 +227,10 @@
 									0
 								</td>
 								<td>
-									0
+									3
 								</td>
 								<td>
-									tion&#47;Major
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Second year
@@ -239,7 +239,7 @@
 									Semester 2
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -256,7 +256,7 @@
 									0
 								</td>
 								<td>
-									Intensive
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Third year
@@ -265,7 +265,7 @@
 									All semesters
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -282,7 +282,7 @@
 									0
 								</td>
 								<td>
-									Core Founda-
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Third year
@@ -291,7 +291,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -305,10 +305,10 @@
 									3
 								</td>
 								<td>
-									3
+									0
 								</td>
 								<td>
-									tion&#47;Major
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Third year
@@ -317,7 +317,7 @@
 									All semesters
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -334,7 +334,7 @@
 									0
 								</td>
 								<td>
-									Requirement
+									Required Foundation
 								</td>
 								<td>
 									Second, Third year
@@ -343,7 +343,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -360,7 +360,7 @@
 									0
 								</td>
 								<td>
-									Core Founda-
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Second year
@@ -369,7 +369,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -386,7 +386,7 @@
 									0
 								</td>
 								<td>
-									tion&#47;Major
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Third year
@@ -395,12 +395,12 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
 								<td class="name">
-									Advanced Startup: Patents and Creative Business Stratgy
+									Advanced Startup: Patents and Creative Business Strategy
 								</td>
 								<td>
 									3
@@ -409,10 +409,10 @@
 									3
 								</td>
 								<td>
-									3
+									0
 								</td>
 								<td>
-									Requirement
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Third year
@@ -421,7 +421,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -438,7 +438,7 @@
 									0
 								</td>
 								<td>
-									Core Founda-
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Second year
@@ -447,7 +447,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -464,7 +464,7 @@
 									0
 								</td>
 								<td>
-									tion&#47;Major
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Second year
@@ -473,7 +473,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -490,7 +490,7 @@
 									0
 								</td>
 								<td>
-									Intensive
+									Core Foundation<br>/Major Requirement
 								</td>
 								<td>
 									Second year
@@ -499,7 +499,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -516,7 +516,7 @@
 									0
 								</td>
 								<td>
-									Core Foundation
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Second year
@@ -525,7 +525,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Entrepreneurship
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 							<tr>
@@ -542,7 +542,7 @@
 									0
 								</td>
 								<td>
-									tion&#47;Major
+									Core Foundation<br>/Major Intensive
 								</td>
 								<td>
 									Third years
@@ -551,7 +551,7 @@
 									Semester 1
 								</td>
 								<td class="last">
-									Center for Global
+									Center for Global <br>Entrepreneurship
 								</td>
 							</tr>
 						</table>

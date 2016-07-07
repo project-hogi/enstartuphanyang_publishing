@@ -24,7 +24,7 @@ body{overflow-y:scroll}
 .gnb li.on ul{display: block}
 .gnb li ul li{}
 .gnb li.on ul li.on{}
-.gnb li.on ul li.on a{color:#db4300;}
+.gnb li.on ul li.on a{color:#f79312;}
 .gnb li.on ul li a{font-size: 14px;color:#171c4d;z-index: 100;}
 
 #language{position: absolute;right: -30px;top: 39px;overflow: hidd en;

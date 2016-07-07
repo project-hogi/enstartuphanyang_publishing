@@ -48,6 +48,9 @@
 					<h3 id="vision">
 						Vision &amp; Mission
 					</h3>
+					<p class="img2">
+						<img src="img/about/vision_img1.png" alt="" />
+					</p>
 					<ol class="vision">
 						<li>
 							1. Best academia-industry infrastructure
@@ -65,9 +68,6 @@
 							5. Hanyang angel fund / Hanyang youth startup fundZ
 						</li>
 					</ol>
-					<p class="img2">
-						<img src="img/about/vision_img1.png" alt="" />
-					</p>
 					<p class="top">
 						<a href="#"><img src="img/about/top.png" alt="" /></a>
 					</p>
@@ -81,7 +81,7 @@
 									Education
 								</dt>
 								<dd>
-									ㆍLectures focusing on practice rather than simply delivering knowledge<br />
+									<strong>Lectures focusing on practice rather than simply delivering knowledge</strong><br />
 									ㆍRegular courses on start-up<br />
 									ㆍIntroducing major in entrepreneurship(2015)<br />
 									ㆍTechno-Management (Essential tech- major startup courses)<br />
@@ -95,7 +95,7 @@
 									Training
 								</dt>
 								<dd>
-									ㆍInstill students’ startup drive and cultivate their competence by running a practical education and training program that students participate in directly<br />
+									<strong>Instill students’ startup drive and cultivate their competence by running a practical education and training program that students participate in directly</strong><br />
 									ㆍStart-up competitions (scthool, national)<br />
 									ㆍEntrepreneurship camp (twice yearly)<br />
 									ㆍStart-up festival<br />
@@ -110,7 +110,7 @@
 									Networking
 								</dt>
 								<dd>
-									ㆍTeach the alumni’s knowledge and practical wisdom through regular mentoring with successful entrepreneurs and the experts of each industry<br />
+									<strong>Teach the alumni’s knowledge and practical wisdom through regular mentoring with successful entrepreneurs and the experts of each industry</strong><br />
 									ㆍEntrepreneur Forums (every quarter, place of startup information sharing)<br />
 									ㆍMentoring Café (mentor roundtable by topic)<br />
 									ㆍAlumni-Students Mentorship Program, etc.
@@ -123,8 +123,8 @@
 									Incubating
 								</dt>
 								<dd>
-									ㆍProvide startup preparation space and mentoring and comprehensive startup incubating to promising venture companies, startup clubs, student 
-									entrepreneurs, etc.<br />
+									<strong>Provide startup preparation space and mentoring and comprehensive startup incubating to promising venture companies, startup clubs, student 
+									entrepreneurs, etc.</strong><br />
 									ㆍIdentifying and nurturing promising start-ups<br />
 									ㆍRun Venturing Space Sponsored by Alumniv<br />
 									ㆍStartup clubs, student entrepreneur excavation<br />
@@ -281,7 +281,7 @@
 									Public Transportation
 								</dt>
 								<dd>
-									Subway Exit No.2 of Hanyang University Station, Subway Line No.2<br />
+									Subway : Exit No.2 of Hanyang University Station, Subway Line No.2<br />
 									Blue Bus: 302, 410<br />
 									Green Bus: 2012(Cheongnyangri), 2013, 2014, 2222
 								</dd>

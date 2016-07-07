@@ -47,8 +47,7 @@
 									Purpose
 								</dt>
 								<dd>
-									ㆍFor the successful startups of university students and prospective alumni entrepreneurs/beginning entrepreneurs, this competition aims to create a startup education learning<br />
-									environment of creation, challenge, innovation, and collaboration for Hanyang University students (Junior Lion) and alumni (Senior Lion) to participate together.<br />
+									ㆍFor the successful startups of university students and prospective alumni entrepreneurs/beginning entrepreneurs, this competition aims to create a startup education learning environment of creation, challenge, innovation, and collaboration for Hanyang University students (Junior Lion) and alumni (Senior Lion) to participate together.<br />
 									ㆍCreation of alumni-connected startup education environment <br />
 									ㆍExpansion of on & off campus startup education <br />
 									ㆍIncrease of startup learning effects
@@ -62,8 +61,7 @@
 								</dt>
 								<dd>
 									ㆍStudents (Junior Lion): Hanyang University students (including students on leave of absence from school) interested in startups<br />
-									ㆍHanyang alumni (Senior Lion): Those admitted as the alumni of Hanyang such as the graduates of Hanyang University (undergraduate and graduate schools) and students <br />
-									who completed Hanyang Start-up Academy and are interested in startups<br />
+									ㆍHanyang alumni (Senior Lion): Those admitted as the alumni of Hanyang such as the graduates of Hanyang University (undergraduate and graduate schools) and students who completed Hanyang Start-up Academy and are interested in startups<br />
 									ㆍCan participate in teams if Hanyang alumni and students form a team
 								</dd>
 							</dl>
@@ -112,8 +110,7 @@
 								</dt>
 								<dd>
 									ㆍIndividuals or teams interested in startups can participate as the undergraduates and graduates of Hanyang University (5 or less teammates)
-									ㆍCan apply with previously award-winning items (but the items must be admitted to be progressive compared to the previously award-winning ones; will include ‘progressiveness
-									evaluation document’ in the application form)
+									ㆍCan apply with previously award-winning items (but the items must be admitted to be progressive compared to the previously award-winning ones; will include ‘progressiveness evaluation document’ in the application form)
 								</dd>
 							</dl>
 						</li>
@@ -127,7 +124,7 @@
 								</dd>
 							</dl>
 						</li>
-						<li>
+						<li class="last">
 							<dl>
 								<dt>
 									Benefits for Award Winners
@@ -135,22 +132,12 @@
 								<dd>
 									ㆍProvides overseas tour benefits for grand prize and excellence award winners (1 person per team)<br />
 									ㆍAutomatically selected as startup clubs when receiving the awards<br />
-									ㆍSupport Details of Startup Clubs
-									<span>- Support prototype production cost, patent application fee, consulting fee, etc. depending on the progress of commercialization<br />
+									ㆍSupport Details of Startup Clubs<br>
+									<span>※ Support prototype production cost, patent application fee, consulting fee, etc. depending on the progress of commercialization<br />
 									- Provides a common office for 6 months for free<br />
 									- Frequent mentoring and support with the experts of each field such as legal affairs, patent, taxation, investment, etc.</span>
 									ㆍProvides investment opportunities of establishment funds through Hanyang Angel Fund, Hanyang Youth Startup Fund, etc.<br />
 									ㆍExtra points when applying to move-in to the Business Incubator Center of Hanyang University Seoul Campus 
-								</dd>
-							</dl>
-						</li>
-						<li class="last">
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2866, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>
@@ -181,12 +168,12 @@
 									Overview
 								</dt>
 								<dd>
-									ㆍPeriod Once every semester<br />
-									ㆍParticipants 100 people including current and former students of campus CEO startup lecture, chief faculties of curriculum, exclusive mentoring team (company CEOs), etc. 
+									ㆍPeriod : Once every semester<br />
+									ㆍParticipants : 100 people including current and former students of campus CEO startup lecture, chief faculties of curriculum, exclusive mentoring team (company CEOs), etc. 
 								</dd>
 							</dl>
 						</li>
-						<li>
+						<li class="last">
 							<dl>
 								<dt>
 									Main Programs
@@ -194,16 +181,6 @@
 								<dd>
 									ㆍPresent business ideas discovered and embodied during the semester<br />
 									ㆍScreening and award by chief professors and exclusive mentoring team
-								</dd>
-							</dl>
-						</li>
-						<li class="last">
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2859, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>

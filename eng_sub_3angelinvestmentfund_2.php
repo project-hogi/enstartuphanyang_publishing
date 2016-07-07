@@ -48,18 +48,8 @@
 								<dd>
 									ㆍInvestment counseling session every month<br />
 									ㆍOverview of Investment counseling session <br />
-									ㆍPlace 504, HIT Building, Hanyang University (Seoul campus) <br />
-									ㆍEligibility CEOs of beginning startup companies who are the students and alumni of Hanyang University
-								</dd>
-							</dl>
-						</li>
-						<li>
-							<dl>
-								<dt>
-									Inquiries
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2861, Email center@hanyang.ac.kr 
+									<span>- Place 504, HIT Building, Hanyang University (Seoul campus) <br />
+									- Eligibility CEOs of beginning startup companies who are the students and alumni of Hanyang University</span>
 								</dd>
 							</dl>
 						</li>

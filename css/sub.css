@@ -1,5 +1,5 @@
 #containerwrap{width: 100%;}
-#container{width: 1000px;margin: auto;}
+#container{width: 1000px;margin: auto; padding-bottom:110px;}
 
 /* About - Greeting */
 #greeting {padding-top:65px;}
@@ -17,7 +17,6 @@
 #startup_lounge p.txt2 {line-height:24px; padding-bottom:25px;}
 #startup_lounge p.img1 {padding-bottom:65px;}
 #startup_lounge h3 {font-size:20px; color:#f79312; padding-bottom:20px;}
-#startup_lounge ul {padding-bottom:60px;}
 #startup_lounge ul li {padding-bottom:26px;}
 #startup_lounge ul li dl {position:relative;}
 #startup_lounge ul li dl dt {font-size:16px; width:144px; height:60px; background-color:#dadada; color:#316a70; font-weight:600; text-align:center; line-height:60px; border-radius:5px;}
@@ -27,7 +26,7 @@
 #startup_lounge ul li dl dd.line-3 {margin-top:-4px;}
 
 /* About - Center-for */
-#center-for {padding-top:60px; padding-bottom:90px;}
+#center-for {padding-top:60px;}
 #center-for ul.tab {overflow:hidden; border-bottom:2px solid #f5f5f5;}
 #center-for ul.tab li {float:left;}
 #center-for ul.tab li a {display:block; width:165px; height:53px; border:1px solid #d0d0d0; border-left:0px none; background-color:#e6e6e6; text-align:center; line-height:53px; font-weight:bold; font-size:19px; color:#666;}
@@ -38,12 +37,13 @@
 #center-for p.txt1 {line-height:24px; padding-bottom:25px;}
 #center-for p.top {position:relative; height:40px; border-bottom:1px dashed #ccc; padding-top:20px;}
 #center-for p.top a {position:absolute; bottom:-1px; right:0;}
-#center-for ol.vision {padding-bottom:25px;}
+#center-for ol.vision {padding-top:25px;}
 #center-for ol.vision li {line-height:24px;}
 #center-for ul.major li {padding-bottom:20px;}
 #center-for ul.major li dl {overflow:hidden;}
 #center-for ul.major li dl dt {float:left; width:240px; padding-left:20px; font-size:18px; font-weight:600; color:#0ea6cc; background:url('../img/about/bg_major_dt.png') no-repeat 2px 8px;}
 #center-for ul.major li dl dd {float:left; width:740px; line-height:24px;}
+#center-for ul.major li dl dd strong {font-weight:bold;}
 #center-for ul.history li {padding-bottom:20px;}
 #center-for ul.history li dl {position:relative;}
 #center-for ul.history li dl dt {width:90px; height:90px; background:url('../img/about/bg_history.png') no-repeat 0 0; line-height:90px; padding-left:30px; color:#fff; font-size:15px; font-weight:600;}
@@ -68,7 +68,7 @@ ul.education_tab li {float:left; width:249px; border-right:1px solid #dadada; he
 ul.education_tab li.last {width:248px;}
 ul.education_tab li a {display:block; width:249px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
 ul.education_tab li.last a {width:248px;}
-ul.education_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
+ul.education_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
 
 /* Education - Major in Entrepreneurship */
 #education_major {padding-top:60px;}
@@ -129,7 +129,7 @@ ul.networking_tab li.last a {width:499px;}
 ul.networking_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
 
 /* Networking - Forums */
-#networking_forums {padding-top:60px; padding-bottom:90px;}
+#networking_forums {padding-top:60px;}
 #networking_forums ul.tab {overflow:hidden; border-bottom:2px solid #f5f5f5;}
 #networking_forums ul.tab li {float:left;}
 #networking_forums ul.tab li a {display:block; width:498px; height:53px; border:1px solid #d0d0d0; border-left:0px none; background-color:#e6e6e6; text-align:center; line-height:53px; font-weight:bold; font-size:19px; color:#666;}
@@ -153,7 +153,7 @@ ul.networking_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #networking_forums ul.startup li dl dd {float:left; width:850px; line-height:24px;}
 
 /* Networking - Mentoring */
-#networking_mentoring {padding-top:60px; padding-bottom:90px;}
+#networking_mentoring {padding-top:60px;}
 #networking_mentoring ul.tab {overflow:hidden; border-bottom:2px solid #f5f5f5;}
 #networking_mentoring ul.tab li {float:left;}
 #networking_mentoring ul.tab li a {display:block; width:498px; height:53px; border:1px solid #d0d0d0; border-left:0px none; background-color:#e6e6e6; text-align:center; line-height:53px; font-weight:bold; font-size:19px; color:#666;}
@@ -185,7 +185,7 @@ ul.training_tab li a {display:block; width:332px; height:49px; text-align:center
 ul.training_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
 
 /* Training - Competitions */
-#training_competitions {padding-top:60px; padding-bottom:90px;}
+#training_competitions {padding-top:60px;}
 #training_competitions ul.tab {overflow:hidden; border-bottom:2px solid #f5f5f5;}
 #training_competitions ul.tab li {float:left;}
 #training_competitions ul.tab li a {display:block; width:331px; height:53px; border:1px solid #d0d0d0; border-left:0px none; background-color:#e6e6e6; text-align:center; line-height:53px; font-weight:bold; font-size:19px; color:#666;}
@@ -216,7 +216,7 @@ ul.training_tab li.selected a {background-color:#fafafa; color:#f06150; height:4
 #training_competitions ul.campus li dl dd {float:left; width:730px; line-height:24px;}
 
 /* Training - Camps */
-#training_camps {padding-top:60px; padding-bottom:90px;}
+#training_camps {padding-top:60px;}
 #training_camps ul.tab {overflow:hidden; border-bottom:2px solid #f5f5f5;}
 #training_camps ul.tab li {float:left;}
 #training_camps ul.tab li a {display:block; width:331px; height:53px; border:1px solid #d0d0d0; border-left:0px none; background-color:#e6e6e6; text-align:center; line-height:53px; font-weight:bold; font-size:19px; color:#666;}
@@ -231,13 +231,18 @@ ul.training_tab li.selected a {background-color:#fafafa; color:#f06150; height:4
 #training_camps ul.entre li dl {overflow:hidden;}
 #training_camps ul.entre li dl dt {float:left; width:250px; padding-left:20px; background:url('../img/about/bg_major_dt.png') no-repeat 0 8px; font-size:18px; font-weight:600; color:#0ea6cc;}
 #training_camps ul.entre li dl dd {float:left; width:730px; line-height:24px;}
+#training_camps ul.entre li dl dd .table_w {padding-top:3px; padding-bottom:45px; background:url('../img/about/bg_table_bd.png') repeat-x 0 0;}
+#training_camps ul.entre li dl dd table {width:100%; border-left:1px solid #ccc;}
+#training_camps ul.entre li dl dd table tr {border-bottom:1px solid #ccc;}
+#training_camps ul.entre li dl dd table tr th {vertical-align:middle; font-weight:600; height:39px; line-height:24px; background-color:#f7f7f7; border-right:1px solid #ccc;}
+#training_camps ul.entre li dl dd table tr td {padding:20px; line-height:24px; border-right:1px solid #ccc;}
 #training_camps ul.entre li.img dl dt {width:0; height:0; font-size:0; background:none;}
 #training_camps ul.entre li.img dl dd {clear:both; width:100%;}
 #training_camps p.top {position:relative; height:40px; border-bottom:1px dashed #ccc; padding-top:20px;}
 #training_camps p.top a {position:absolute; bottom:-1px; right:0;}
 
 /* Training - Internships */
-#training_internships {padding-top:60px; padding-bottom:90px;}
+#training_internships {padding-top:60px;}
 #training_internships ul.tab {overflow:hidden; border-bottom:2px solid #f5f5f5;}
 #training_internships ul.tab li {float:left;}
 #training_internships ul.tab li a {display:block; width:498px; height:53px; border:1px solid #d0d0d0; border-left:0px none; background-color:#e6e6e6; text-align:center; line-height:53px; font-weight:bold; font-size:19px; color:#666;}
@@ -263,7 +268,7 @@ ul.incubating_tab li.last a {width:248px;}
 ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
 
 /* Incubating - Center for Business Incubation */
-#incubating_center {padding-top:50px; padding-bottom:90px;}
+#incubating_center {padding-top:50px;}
 #incubating_center h3 {font-size:26px; font-weight:bold; padding-bottom:20px; color:#f7931e;}
 #incubating_center p.txt1 {line-height:24px; padding-bottom:20px;}
 #incubating_center h4 {padding-left:20px; background:url('../img/about/bg_major_dt.png') no-repeat 0 8px; font-size:18px; font-weight:600; color:#0ea6cc; padding-bottom:15px;}
@@ -274,7 +279,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #incubating_center table tr td {padding:10px 20px; vertical-align:middle; line-height:24px;}
 
 /* Incubating - Venturing Space Sponsored by */
-#incubating_venturing {padding-top:50px; padding-bottom:90px;}
+#incubating_venturing {padding-top:50px;}
 #incubating_venturing h3 {font-size:26px; font-weight:bold; padding-bottom:20px; color:#f7931e;}
 #incubating_venturing p.txt1 {line-height:24px; padding-bottom:20px;}
 #incubating_venturing ul.venturing li {padding-bottom:20px;}
@@ -284,7 +289,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #incubating_venturing ul.venturing li dl dd {float:left; width:750px; line-height:24px;}
 
 /* Incubating - Alumni Startup Sauna */
-#incubating_alumni {padding-top:50px; padding-bottom:90px;}
+#incubating_alumni {padding-top:50px;}
 #incubating_alumni h3 {font-size:26px; font-weight:bold; padding-bottom:20px; color:#f7931e;}
 #incubating_alumni p.txt1 {line-height:24px; padding-bottom:20px;}
 #incubating_alumni dl {overflow:hidden;}
@@ -292,7 +297,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #incubating_alumni dl dd {float:left; width:760px; line-height:24px;}
 
 /* Incubating - Startup Club */
-#incubating_club {padding-top:50px; padding-bottom:90px;}
+#incubating_club {padding-top:50px;}
 #incubating_club h3 {font-size:26px; font-weight:bold; padding-bottom:20px; color:#f7931e;}
 #incubating_club p.txt1 {line-height:24px; padding-bottom:20px;}
 #incubating_club ul.club li {padding-bottom:20px;}
@@ -302,7 +307,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #incubating_club ul.club li dl dd {float:left; width:760px; line-height:24px;}
 
 /* Angel Investment fund - Hanyang Angel Club */
-#angel_club {padding-top:50px; padding-bottom:90px;}
+#angel_club {padding-top:50px;}
 #angel_club h3 {font-size:26px; font-weight:bold; padding-bottom:20px; color:#f7931e;}
 #angel_club p.txt1 {line-height:24px; padding-bottom:20px;}
 #angel_club ul.club li {padding-bottom:20px;}
@@ -310,11 +315,12 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #angel_club ul.club li dl {overflow:hidden;}
 #angel_club ul.club li dl dt {float:left; width:230px; padding-left:20px; background:url('../img/about/bg_major_dt.png') no-repeat 0 8px; font-size:18px; font-weight:600; color:#0ea6cc;}
 #angel_club ul.club li dl dd {float:left; width:750px; line-height:24px;}
+#angel_club ul.club li dl dd span {display:block; padding-left:15px; font-size:12px; color:#5d5d5d; line-height:20px;}
 #angel_club p.img1 {padding-bottom:30px;}
 #angel_club p.btn {padding-bottom:40px;}
 
 /* Angel Investment fund - Hanyang Youth Startup Fund */
-#angel_youth {padding-top:50px; padding-bottom:90px;}
+#angel_youth {padding-top:50px;}
 #angel_youth h3 {font-size:26px; font-weight:bold; padding-bottom:20px; color:#f7931e;}
 #angel_youth p.txt1 {line-height:24px; padding-bottom:20px;}
 #angel_youth ul.youth li {padding-bottom:20px;}
@@ -322,6 +328,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #angel_youth ul.youth li dl {overflow:hidden;}
 #angel_youth ul.youth li dl dt {float:left; width:230px; padding-left:20px; background:url('../img/about/bg_major_dt.png') no-repeat 0 8px; font-size:18px; font-weight:600; color:#0ea6cc;}
 #angel_youth ul.youth li dl dd {float:left; width:750px; line-height:24px;}
+#angel_youth ul.youth li dl dd span {display:block; padding-left:15px; font-size:12px; color:#5d5d5d; line-height:20px;}
 
 /* Angel Investment fund - Crowd Funding */
 #angel_crowd {padding-top:50px; padding-bottom:90px;}
@@ -339,11 +346,11 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height
 #angel_crowd ul.txt2 li {line-height:24px;}
 #angel_crowd ul.txt2 li strong {font-weight:600;}
 #angel_crowd ul.btm_list {overflow:hidden;}
-#angel_crowd ul.btm_list li {float:left; width:493px; height:409px; padding-right:10px; padding-bottom:10px;}
+#angel_crowd ul.btm_list li {float:left; width:493px; height:430px; padding-right:10px; padding-bottom:10px;}
 #angel_crowd ul.btm_list li.ri {padding-right:0;}
-#angel_crowd ul.btm_list li dl {position:relative; width:493px; height:409px; border:1px solid #e4e4e4;}
+#angel_crowd ul.btm_list li dl {position:relative; width:493px; height:430px; border:1px solid #e4e4e4;}
 #angel_crowd ul.btm_list li dl dt {position:absolute; top:237px; left:175px; font-weight:bold; font-size:15px;}
-#angel_crowd ul.btm_list li dl dd.con {position:absolute; top:260px; left:175px; font-size:12px; line-height:20px; padding-right:10px;}
+#angel_crowd ul.btm_list li dl dd.con {position:absolute; top:260px; left:175px; font-size:12px; line-height:20px; padding-right:10px; overflow:hidden;}
 #angel_crowd ul.btm_list li dl dd.logo {position:absolute; top:240px; left:9px;}
 #angel_crowd ul.btm_list li dl dd.click {position:absolute; bottom:0; padding-left:40px; width:453px; height:41px; border-top:1px solid #efefef; line-height:41px; background:url('../img/fund/bg_home.png') no-repeat 18px 50%;}
 #angel_crowd ul.btm_list li dl dd.click a {display:block; height:41px; line-height:41px; color:#ef624e; font-size:11px; text-decoration:underline;}

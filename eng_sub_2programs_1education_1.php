@@ -48,25 +48,23 @@
 									ㆍDepartment: Center for Global Entrepreneurship (university-industry consortium)<br />
 									ㆍConnected universities and departments: Select major subjects recommended by the Deans of each<br />
 									&nbsp;&nbsp;&nbsp;department<br />
-									ㆍDegree Awarded: Bachelor’s Degree in Venture Startup (2ndmajor)<br />
+									ㆍDegree Awarded: Bachelor’s Degree in Venture Startup (2nd major)<br />
 									ㆍCompleted Credits: Major requirements (21 credits), Major intensive (18 credits) / Awards the Bachelor’s in<br />
 									&nbsp;&nbsp;&nbsp;Venture Startup when a total of 39 credits are completed<br />
-									ㆍHow to Complete and Procedure: Same as completing the 2ndmajor
+									ㆍHow to Complete and Procedure: Same as completing the 2nd major
 								</td>
 							</tr>
 							<tr>
 								<th>
-									How to<br />Apply and Procedure
+									How to Apply <br />and Procedure
 								</th>
 								<td>
-									ㆍName of Major: Major in Entrepreneurship<br />
-									ㆍDepartment: Center for Global Entrepreneurship (university-industry consortium)<br />
-									ㆍConnected universities and departments: Select major subjects recommended by the Deans of each<br />
-									&nbsp;&nbsp;&nbsp;department<br />
-									ㆍDegree Awarded: Bachelor’s Degree in Venture Startup (2ndmajor)<br />
-									ㆍCompleted Credits: Major requirements (21 credits), Major intensive (18 credits) / Awards the Bachelor’s in<br />
-									&nbsp;&nbsp;&nbsp;Venture Startup when a total of 39 credits are completed<br />
-									ㆍHow to Complete and Procedure: Same as completing the 2ndmajor
+									ㆍHow to Apply: Choose ‘Apply for the Major’ on Hanyang University portal and submit the application form and<br />
+									&nbsp;&nbsp;&nbsp;personal statement to the Center for Global Entrepreneurship<br>
+									ㆍApplication Period: May and November of every year<br> 
+									ㆍProcedure<br>
+									&nbsp;&nbsp;1) Document screening (twice of the capacity)<br>
+   									&nbsp;&nbsp;2) Interview (evaluates the major aptitude based on the submitted documents) 
 								</td>
 							</tr>
 						</table>

@@ -51,7 +51,7 @@
 								</dd>
 							</dl>
 						</li>
-						<li>
+						<li class="last">
 							<dl>
 								<dt>
 									Major Contents
@@ -61,16 +61,6 @@
 									ㆍOn-site mentoring by company CEOs (establish startup idea business plans and present on-site by teams, mentors’ one-point lessons, etc.)<br />
 									ㆍChallenge program<br />
 									ㆍDinner and friendship times
-								</dd>
-							</dl>
-						</li>
-						<li class="last">
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2866, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>
@@ -95,7 +85,7 @@
 								</dd>
 							</dl>
 						</li>
-						<li>
+						<li class="last">
 							<dl>
 								<dt>
 									Major Contents
@@ -105,16 +95,6 @@
 									ㆍOn-site mentoring by company CEOs (establish startup idea business plans and present on-site by teams, mentors’ one-point lessons, etc.)<br />
 									ㆍChallenge program<br />
 									ㆍDinner and friendship times
-								</dd>
-							</dl>
-						</li>
-						<li class="last">
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2866, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>
@@ -142,13 +122,52 @@
 						<li>
 							<dl>
 								<dt>
-									Major Contents
+									Program Details
 								</dt>
 								<dd>
-									ㆍStartup experience learning for prospective CEOs (special lectures by inviting well-known figures, stories of startup experiences from alumni entrepreneurs, etc.)
-									ㆍOn-site mentoring by company CEOs (establish startup idea business plans and present on-site by teams, mentors’ one-point lessons, etc.)
-									ㆍChallenge program
-									ㆍDinner and friendship times
+									<div class="table_w">
+										<table>
+											<tr>
+												<th>
+													Category
+												</th>
+												<th>
+													Details
+												</th>
+											</tr>
+											<tr>
+												<td>
+													Session 1
+												</td>
+												<td>
+													Team presentation (5~8 teams)
+												</td>
+											</tr>
+											<tr>
+												<td colspan="2">
+													Intermission
+												</td>
+											</tr>
+											<tr>
+												<td rowspan="3">
+													Session 2
+												</td>
+												<td>
+													Special lectures on startup success strategies by CEOs
+												</td>
+											</tr>
+											<tr>
+												<td>
+													Conversation with alumni & final evaluation
+												</td>
+											</tr>
+											<tr>
+												<td>
+													Award ceremony
+												</td>
+											</tr>
+										</table>
+									</div>
 								</dd>
 							</dl>
 						</li>
@@ -159,16 +178,6 @@
 								</dt>
 								<dd>
 									<img src="img/programs/techno_img1.png" alt="" />
-								</dd>
-							</dl>
-						</li>
-						<li class="last">
-							<dl>
-								<dt>
-									Inquires
-								</dt>
-								<dd>
-									ㆍPhone 02-2220-2856, Email center@hanyang.ac.kr 
 								</dd>
 							</dl>
 						</li>
