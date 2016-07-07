@@ -1,0 +1,66 @@
+body{overflow-y:scroll}
+.wrap{
+	    min-height: 100%;
+    padding-bottom: 120px;
+    margin-bottom: -120px;
+    box-sizing: border-box;
+}
+/* header */
+#headerwrap{width: 100%; background-color: #171c4d;}
+#headerwrap:after{clear: both;display: block;content: '';margin- top: 50px;
+	width: 100%;height: 40px;background-color: #ececec;
+}
+#header{width: 1000px;height: 100px;margin: auto;position: relative;}
+#header h1{position: absolute;left: 0;top: 23px;}
+#header h1 a{}
+#header h1 a img{}
+#header nav{position: absolute;left: 322px;top: 39px;}
+.gnb{}
+.gnb li{display:inline-block;position: relative;}
+.gnb li.gnb_on a{color:#dec214;}
+.gnb>li.on>a{color:#dec214;background: url(../img/nav_on.png) no-repeat 50% 100%;}
+.gnb>li a{font-size: 18px;line-height:22px;padding: 0 21px;color:#fff;font-weight: bold;padding-bottom: 40px;}
+.gnb li ul{width: 1000px;position: absolute;left: -80px;top: 70px;z-index: 10; display: none}
+.gnb li.on ul{display: block}
+.gnb li ul li{}
+.gnb li.on ul li.on{}
+.gnb li.on ul li.on a{color:#db4300;}
+.gnb li.on ul li a{font-size: 14px;color:#171c4d;z-index: 100;}
+
+#language{position: absolute;right: -30px;top: 39px;overflow: hidd en;
+	width: 100px;height: 27px;background-color: #fff;border-radius:25px;
+}
+#language p{width: 100px;height: 27px;line-height: 2.5;text-indent:10px;font-size: 11px;cursor:pointer;
+	background-image: url(../img/plus.png);
+	background-repeat: no-repeat;
+	background-position: 88% 50%;
+}
+#language ul{}
+#language ul li{width: 100px;height: 27px;background-color: #171c4d;}
+#language ul li a{color:#fff;font-size: 11px;line-height: 2.5;padding-left:10px;display: block;}
+#language ul li:hover{background-color: #fbac18;}
+#language ul li:hover a{color:#171c4d;}
+
+#menu{position: absolute;right: 0px;top: 0;z-index: 100;width: 168px;height: 100px;
+	background-image: url(../img/menu_bg.png);
+	background-repeat: no-repeat;
+}
+#menu p{position: absolute;right: 35px;top: 38px;}
+#menu p a{}
+#menu p a img{}
+
+
+/* footer */
+#footerwrap{width: 100%;height: 120px;background-color: #183249;}
+#footer{width: 1000px;height: 120px;margin: auto;position: relative;
+	background-image: url(../img/footer_logo2.png);
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+}
+#footer h1{position: absolute;left: 0;top: 40px;}
+#footer h1 a{}
+#footer h1 a img{}
+#footer p{position: absolute;left: 317px;top:50px;color:#8f8f8f;}
+
+
+
