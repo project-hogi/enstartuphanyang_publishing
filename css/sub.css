@@ -126,7 +126,7 @@ ul.networking_tab li {float:left; width:498px; border-right:1px solid #dadada; h
 ul.networking_tab li.last {width:499px;}
 ul.networking_tab li a {display:block; width:498px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
 ul.networking_tab li.last a {width:499px;}
-ul.networking_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
+ul.networking_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
 
 /* Networking - Forums */
 #networking_forums {padding-top:60px;}
@@ -182,7 +182,7 @@ ul.networking_tab li.selected a {background-color:#fafafa; color:#f06150; height
 ul.training_tab {overflow:hidden; width:999px; margin:0 auto; border-left:1px solid #dadada;}
 ul.training_tab li {float:left; width:332px; border-right:1px solid #dadada; height:49px;}
 ul.training_tab li a {display:block; width:332px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
-ul.training_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
+ul.training_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
 
 /* Training - Competitions */
 #training_competitions {padding-top:60px;}
@@ -265,7 +265,7 @@ ul.incubating_tab li {float:left; width:249px; border-right:1px solid #dadada; h
 ul.incubating_tab li.last {width:248px;}
 ul.incubating_tab li a {display:block; width:249px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
 ul.incubating_tab li.last a {width:248px;}
-ul.incubating_tab li.selected a {background-color:#fafafa; color:#f06150; height:46px; border-bottom:3px solid #f06150;}
+ul.incubating_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
 
 /* Incubating - Center for Business Incubation */
 #incubating_center {padding-top:50px;}
