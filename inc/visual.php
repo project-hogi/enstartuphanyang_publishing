@@ -1,18 +1,29 @@
 <div id="visualwrap">
 	<section id="visual">
 		<article id="main_visual">
-			<p class="prev"><a href="#"></a></p>
-			<p class="next"><a href="#"></a></p>
-			<ul class="imgbox">
-				<li class="v1"><a href="#"><img src="img/visual/v1_text.png" alt="" /></a></li>
-				<li class="v2"><a href="#"><img src="img/visual/v1_text.png" alt="" /></a></li>
-				<li class="v3"><a href="#"><img src="img/visual/v1_text.png" alt="" /></a></li>
+			<ul class="visual-content">
+				<li>
+					<img src="img/visual/visual_1.jpg" alt="" />
+					<div class="visual-info">
+						<h1 class="sr-only">HANYANG<br>STARTUP LOUNGE<br>LEAD THE WORLD<br>WITH VISION</h1>
+						<p class="sr-only">Hanyang Startup Lounge is an open <br>platform of portal type where you can easily find <br>and share information about all startups through <br>startup support education, related programs, <br>and mentor-mentee connection, etc. </p>
+						
+					</div>
+				</li>
 			</ul>
-			<ul class="check_circle">
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
+			<div class="control">
+				<a href="#none" class="btn_prev"></a>
+				<a href="#none" class="btn_next"></a>
+			</div>
+			<div class="btn_pager">
+				<a href="#none" class="on"></a>
+				<a href="#none"></a>
+				<a href="#none"></a>
+			</div>
+			
 		</article>
+	</section>
+	<section class="visual_banner">
+		<a href="#none" onclick="alert('준비중입니다.'); return false;"><span class="point">To see</span> a greeting <i class="fa fa-angle-right point" aria-hidden="true"></i></a>
 	</section>
 </div>

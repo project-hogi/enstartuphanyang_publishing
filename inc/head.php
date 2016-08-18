@@ -13,6 +13,9 @@
   <link rel="shortcut icon" href="../../../common/img/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/import.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <script src="https://use.fontawesome.com/534ab90430.js"></script>
   
 </head>
