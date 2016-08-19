@@ -3,6 +3,9 @@ require_once "lib.php";
 
 $config['isBuild'] = true;
 
+@mkdir("../html");
+@mkdir("../html/views");
+
 requirePhpInPath("views", "../html/views");
 
 fileCopy("index.html", "../html/index.html");
@@ -13,7 +16,7 @@ fileCopy("js", "../html/js");
 
 function requirePhpInPath($inputDir, $outputDir)
 {
-    $realPath = __DIR__ . "../" . $inputDir;
+    $realPath = __DIR__ . "/" . $inputDir;
     
     if (! is_dir($realPath)) {
         return;
