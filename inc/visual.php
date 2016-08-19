@@ -24,6 +24,6 @@
 		</article>
 	</section>
 	<section class="visual_banner">
-		<a href="#none" onclick="alert('준비중입니다.'); return false;"><span class="point">To see</span> a greeting <i class="fa fa-angle-right point" aria-hidden="true"></i></a>
+		<a href="eng_sub_1about_1.php" ><span class="point">To see</span> a greeting <i class="fa fa-angle-right point" aria-hidden="true"></i></a>
 	</section>
 </div>

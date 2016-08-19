@@ -1,8 +1,7 @@
 $(function(){
-	
 	$('.main_visual').each(function() {
 		var $visual = $(this);
-		var $visualContent = $('>ul', $visual);
+		var $visualContent = $('>.visual-content', $visual);
 		var options = {
 			slides : '>li',
 			timeout: 2400,

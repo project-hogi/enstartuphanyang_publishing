@@ -68,7 +68,7 @@
 						<p>NOTICE<span class="date">2015-12-16</span></p>
 						<span class="new_g"></span>
 					</div>
-					<a href="#none" onclick="alert('준비중입니다.');return false;" class="notice_thumb"></a>
+					<a href="eng_sub_4startupinfo_1.php"  class="notice_thumb"></a>
 					</li>
 				<li><div>
 						<img src="img/main/main_news-02.png" alt="" />
@@ -79,7 +79,7 @@
 						<p>NEWS<span class="date">2015-12-16</span></p>
 						<span class="new_g"></span>
 					</div>
-					<a href="#none" onclick="alert('준비중입니다.');return false;" class="notice_thumb"></a>
+					<a href="eng_sub_4startupinfo_1.php" class="notice_thumb"></a>
 					</li>
 				<li><div>
 						<dl>
@@ -89,7 +89,7 @@
 						<p>NOTICE<span class="date">2015-12-16</span></p>
 						<span class="new_b"></span>
 					</div>
-					<a href="#none" onclick="alert('준비중입니다.');return false;" class="notice_thumb"></a>
+					<a href="eng_sub_4startupinfo_1.php" class="notice_thumb"></a>
 					</li>
 				<li><div>
 						<img src="img/main/main_news-03.png" alt="" />
@@ -100,7 +100,7 @@
 						<p>NOTICE<span class="date">2015-12-16</span></p>
 						<span class="new_g"></span>
 					</div>
-					<a href="#none" onclick="alert('준비중입니다.');return false;" class="notice_thumb"></a>
+					<a href="eng_sub_4startupinfo_1.php" class="notice_thumb"></a>
 					</li>
 			</ul>
 			
@@ -111,10 +111,10 @@
 			<div class="conwrap">
 				<h2 class="main_content_tit">Program</h2>
 				<ul>
-					<li class="pro_edu"><a href="#none" onclick="alert('준비중 입니다');return false;"><span>EDUCATION</span></a></li>
-					<li class="pro_tra"><a href="#none" onclick="alert('준비중 입니다');return false;"><span>TRAINING</span></a></li>
-					<li class="pro_net"><a href="#none" onclick="alert('준비중 입니다');return false;"><span>NETWORKING</span></a></li>
-					<li class="pro_inc"><a href="#none" onclick="alert('준비중 입니다');return false;"><span>INCUBATING</span></a></li>
+					<li class="pro_edu"><a href="eng_sub_2programs_1education_1.php"><span>EDUCATION</span></a></li>
+					<li class="pro_tra"><a href="eng_sub_2programs_3training_1.php"><span>TRAINING</span></a></li>
+					<li class="pro_net"><a href="eng_sub_2programs_2networking_1.php"><span>NETWORKING</span></a></li>
+					<li class="pro_inc"><a href="eng_sub_2programs_4incubating_1.php"><span>INCUBATING</span></a></li>
 				</ul>
 			
 			</div>

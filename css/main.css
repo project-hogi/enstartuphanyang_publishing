@@ -52,12 +52,11 @@
 .program ul:after{clear: both;display: block;content: '';}
 .program ul li{width: 250px;height: 233px;float: left;text-align: center;background: #6d758c url(../img/main/program_icon-edu.png)no-repeat 50% 30%;}
 .program ul li a{display: block;height: 100%;font-size: 16px;color: #fff;}
-.program ul li span{display: inline-block;vertical-align: middle;margin-top: 45px;}
-.program ul li span:before{clear: both;display: block;content: '';width: 1px;height: 100%;vertical-align: middle;display: inline-block;}
-.program ul li.pro_edu{background-image: url(../img/main/program_icon-edu.png);background-color: #6d758c;}
-.program ul li.pro_tra{background-image: url(../img/main/program_icon-tra.png);background-color: #e9eaf0;}
+.program ul li span{display: inline-block;margin-top: 145px;}
+.program ul li.pro_edu{background-image: url(../img/main/program_icon-edu.png);background-color: #6d758c;background-repeat: no-repeat;background-position: 50% 30%;}
+.program ul li.pro_tra{background-image: url(../img/main/program_icon-tra.png);background-color: #e9eaf0;background-repeat: no-repeat;background-position: 50% 30%;}
 .program ul li.pro_tra a{color: #444;}
-.program ul li.pro_net{background-image: url(../img/main/program_icon-net.png);background-color: #595959;}
-.program ul li.pro_inc{background-image: url(../img/main/program_icon-inc.png);background-color: #6d758c;}
+.program ul li.pro_net{background-image: url(../img/main/program_icon-net.png);background-color: #595959;background-repeat: no-repeat;background-position: 50% 30%;}
+.program ul li.pro_inc{background-image: url(../img/main/program_icon-inc.png);background-color: #6d758c;background-repeat: no-repeat;background-position: 50% 30%;}
 
 
