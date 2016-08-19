@@ -10,10 +10,10 @@
   <meta name="description" content="juni" />
   <meta name="keywords" content="juni" />
   <meta name="author" content="Juni" />
-  <link rel="shortcut icon" href="../../../common/img/favicon.ico">
+  <link rel="shortcut icon" href="/img/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/import.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
+  <link rel="stylesheet" href="/css/import.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
 
   
 </head>
