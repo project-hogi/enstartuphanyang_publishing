@@ -12,7 +12,6 @@
   <meta name="author" content="Juni" />
   <link rel="shortcut icon" href="../../../common/img/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/import.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
 
