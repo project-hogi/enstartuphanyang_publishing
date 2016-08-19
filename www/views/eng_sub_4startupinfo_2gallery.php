@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -30,10 +30,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img1.png" alt="" />
+												<img src="../img/info/gallery_img1.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -53,10 +53,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img2.png" alt="" />
+												<img src="../img/info/gallery_img2.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -76,10 +76,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img3.png" alt="" />
+												<img src="../img/info/gallery_img3.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -99,10 +99,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img4.png" alt="" />
+												<img src="../img/info/gallery_img4.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -122,10 +122,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img5.png" alt="" />
+												<img src="../img/info/gallery_img5.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -145,10 +145,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img6.png" alt="" />
+												<img src="../img/info/gallery_img6.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -168,10 +168,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img7.png" alt="" />
+												<img src="../img/info/gallery_img7.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -191,10 +191,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img8.png" alt="" />
+												<img src="../img/info/gallery_img8.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -214,10 +214,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img9.png" alt="" />
+												<img src="../img/info/gallery_img9.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -237,10 +237,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img10.png" alt="" />
+												<img src="../img/info/gallery_img10.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -260,10 +260,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img11.png" alt="" />
+												<img src="../img/info/gallery_img11.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -283,10 +283,10 @@
 												</span>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/gallery_img12.png" alt="" />
+												<img src="../img/info/gallery_img12.png" alt="" />
 											</dd>
 											<dd class="ov">
-												<a href="#"><img src="/img/info/dd_ov.png" alt="" /></a>
+												<a href="#"><img src="../img/info/dd_ov.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -308,7 +308,7 @@
 											<option value="">Contents</option>
 										</select>
 										<input type="text" />
-										<a href="#"><img src="/img/info/search_btn.png" alt="" /></a>
+										<a href="#"><img src="../img/info/search_btn.png" alt="" /></a>
 									</li>
 								</ul>
 							</div><!-- //info_gallery --></div>
@@ -317,9 +317,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

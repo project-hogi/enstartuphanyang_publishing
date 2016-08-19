@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -67,16 +67,16 @@
 									</li>
 								</ul>
 								<p class="img1">
-									<img src="/img/fund/club_img1.png" alt="" />
+									<img src="../img/fund/club_img1.png" alt="" />
 								</p>
 								<p class="btn">
-									<a href="#"><img src="/img/fund/club_community_btn.png" alt="" /></a>
+									<a href="#"><img src="../img/fund/club_community_btn.png" alt="" /></a>
 								</p>
 								<h3>
 									Invested Companies
 								</h3>
 								<p class="img2">
-									<img src="/img/fund/club_img2.png" alt="" />
+									<img src="../img/fund/club_img2.png" alt="" />
 								</p>
 							</div><!-- //angel_club --></div>
 			</div><!-- //container -->
@@ -85,9 +85,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

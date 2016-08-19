@@ -3,7 +3,7 @@
 		<article id="main_visual">
 			<ul class="visual-content">
 				<li>
-					<img src="/img/visual/visual_1.jpg" alt="" />
+					<img src="../img/visual/visual_1.jpg" alt="" />
 					<div class="visual-info">
 						<h1 class="sr-only">HANYANG<br>STARTUP LOUNGE<br>LEAD THE WORLD<br>WITH VISION</h1>
 						<p class="sr-only">Hanyang Startup Lounge is an open <br>platform of portal type where you can easily find <br>and share information about all startups through <br>startup support education, related programs, <br>and mentor-mentee connection, etc. </p>

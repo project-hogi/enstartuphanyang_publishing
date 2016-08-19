@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -112,7 +112,7 @@
 									Move-in Benefits
 								</h4>
 								<p class="img">
-									<img src="/img/programs/move-in_bene_img.png" alt="" />
+									<img src="../img/programs/move-in_bene_img.png" alt="" />
 								</p>					
 							</div><!-- //incubating_center --></div>
 			</div><!-- //container -->
@@ -121,9 +121,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

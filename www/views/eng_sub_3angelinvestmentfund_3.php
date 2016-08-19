@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -121,13 +121,13 @@
 												In CrowdNet, which was built by the Korea Securities Depository as part of the support policy to develop the crowd funding market, the issuer and investor can view the issue and investment limits, and those interested in crowd funding can check related information and statistical data. 
 											</dd>
 											<dd class="logo">
-												<img src="/img/fund/crowdnet_logo.png" alt="" />
+												<img src="../img/fund/crowdnet_logo.png" alt="" />
 											</dd>
 											<dd class="click">
 												<a href="#">Click to go to Website</a>
 											</dd>
 											<dd class="big_img">
-												<img src="/img/fund/crowdnet_big.png" alt="" />
+												<img src="../img/fund/crowdnet_big.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -140,13 +140,13 @@
 												OpenTrade is No.1 investment type crowd funding platform. It provides various services and networks besides financing such as mentoring, recruiting, and promotional marketing needed for startups. Please watch the growth of your company and invest in its future at OpenTrade! 
 											</dd>
 											<dd class="logo">
-												<img src="/img/fund/opentrade_logo.png" alt="" />
+												<img src="../img/fund/opentrade_logo.png" alt="" />
 											</dd>
 											<dd class="click">
 												<a href="#">Click to go to Website</a>
 											</dd>
 											<dd class="big_img">
-												<img src="/img/fund/opentrade_big.png" alt="" />
+												<img src="../img/fund/opentrade_big.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -159,13 +159,13 @@
 												By going beyond the existing method of traditional financial institutions’ financial support based on high credit rating and profit rate, Wadiz Is sponsors the projects of individuals, companies, and groups that save people, warm the regions, clean the world, and create a society for mutual growth.  
 											</dd>
 											<dd class="logo">
-												<img src="/img/fund/wadiz_logo.png" alt="" />
+												<img src="../img/fund/wadiz_logo.png" alt="" />
 											</dd>
 											<dd class="click">
 												<a href="#">Click to go to Website</a>
 											</dd>
 											<dd class="big_img">
-												<img src="/img/fund/wadiz_big.png" alt="" />
+												<img src="../img/fund/wadiz_big.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -178,13 +178,13 @@
 												Ucanstart leads a hybrid-type crowd funding that induces a positive cycle of ideas and investment. Through SNS, ucanstart connects investors to the various idea providers who engage in creation activities such as games, performances, art, photography, and sports in the fields of art and culture. 
 											</dd>
 											<dd class="logo">
-												<img src="/img/fund/ucanstart_logo.png" alt="" />
+												<img src="../img/fund/ucanstart_logo.png" alt="" />
 											</dd>
 											<dd class="click">
 												<a href="#">Click to go to Website</a>
 											</dd>
 											<dd class="big_img">
-												<img src="/img/fund/ucanstart_big.png" alt="" />
+												<img src="../img/fund/ucanstart_big.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -196,9 +196,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

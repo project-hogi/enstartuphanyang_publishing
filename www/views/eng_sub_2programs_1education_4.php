@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -41,7 +41,7 @@
 									</dd>
 								</dl>
 								<p class="img">
-									<img src="/img/about/venture_img1.png" alt="" />
+									<img src="../img/about/venture_img1.png" alt="" />
 								</p>
 								<dl class="expected">
 									<dt>
@@ -59,9 +59,9 @@
 
 </div><!-- //wrap -->
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

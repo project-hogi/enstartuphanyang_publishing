@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -30,10 +30,10 @@
 												<span class="date">2015.06.14 18:26:17</span>
 											</dd>
 											<dd class="more">
-												<a href="#"><img src="/img/info/plus_btn.png" alt="" /></a>
+												<a href="#"><img src="../img/info/plus_btn.png" alt="" /></a>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/notice_img1.png" alt="" />
+												<img src="../img/info/notice_img1.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -53,10 +53,10 @@
 												<span class="date">2015.06.14 18:26:17</span>
 											</dd>
 											<dd class="more">
-												<a href="#"><img src="/img/info/plus_btn.png" alt="" /></a>
+												<a href="#"><img src="../img/info/plus_btn.png" alt="" /></a>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/notice_img2.png" alt="" />
+												<img src="../img/info/notice_img2.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -76,7 +76,7 @@
 												<span class="date">2015.06.14 18:26:17</span>
 											</dd>
 											<dd class="more">
-												<a href="#"><img src="/img/info/plus_btn.png" alt="" /></a>
+												<a href="#"><img src="../img/info/plus_btn.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -96,7 +96,7 @@
 												<span class="date">2015.06.14 18:26:17</span>
 											</dd>
 											<dd class="more">
-												<a href="#"><img src="/img/info/plus_btn.png" alt="" /></a>
+												<a href="#"><img src="../img/info/plus_btn.png" alt="" /></a>
 											</dd>
 										</dl>
 									</li>
@@ -116,10 +116,10 @@
 												<span class="date">2015.06.14 18:26:17</span>
 											</dd>
 											<dd class="more">
-												<a href="#"><img src="/img/info/plus_btn.png" alt="" /></a>
+												<a href="#"><img src="../img/info/plus_btn.png" alt="" /></a>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/notice_img3.png" alt="" />
+												<img src="../img/info/notice_img3.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -139,10 +139,10 @@
 												<span class="date">2015.06.14 18:26:17</span>
 											</dd>
 											<dd class="more">
-												<a href="#"><img src="/img/info/plus_btn.png" alt="" /></a>
+												<a href="#"><img src="../img/info/plus_btn.png" alt="" /></a>
 											</dd>
 											<dd class="img">
-												<img src="/img/info/notice_img4.png" alt="" />
+												<img src="../img/info/notice_img4.png" alt="" />
 											</dd>
 										</dl>
 									</li>
@@ -164,7 +164,7 @@
 											<option value="">Contents</option>
 										</select>
 										<input type="text" />
-										<a href="#"><img src="/img/info/search_btn.png" alt="" /></a>
+										<a href="#"><img src="../img/info/search_btn.png" alt="" /></a>
 									</li>
 								</ul>
 							</div><!-- //info_notice --></div>
@@ -174,9 +174,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

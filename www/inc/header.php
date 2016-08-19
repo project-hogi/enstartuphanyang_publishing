@@ -1,6 +1,6 @@
 <div id="headerwrap">
 	<header id="header">
-		<h1><a href="index.php"><img src="/img/logo.png" alt="HANYANG STARTUP LOUNGE" /></a></h1>
+		<h1><a href="index.php"><img src="../img/logo.png" alt="HANYANG STARTUP LOUNGE" /></a></h1>
 		<nav id="nav">
 			<ul class="gnb">
 				<li>
@@ -41,7 +41,7 @@
 			<p>LANGUAGE</p>
 			<ul>
 				<li><a href="http://startup.hanyang.ac.kr/" target="_blank">Korean</a></li>
-				<li><a href="/">English</a></li>
+				<li><a href="../">English</a></li>
 				<li><a href="http://cnstartuphanyang.hogi.co.kr" target="_blank">Chinese</a></li>
 			</ul>
 		</div>
@@ -49,6 +49,6 @@
 		
 	</header><!-- //header -->
 	<div id="menu">
-		<p><a href="#"><img src="/img/menu_btn.png" alt="menu btn" /></a></p>
+		<p><a href="#"><img src="../img/menu_btn.png" alt="menu btn" /></a></p>
 	</div><!-- //menu -->
 </div><!-- //headerwrap -->

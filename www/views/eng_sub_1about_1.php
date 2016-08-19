@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -19,7 +19,7 @@
 								</p>
 								<ul>
 									<li class="photo">
-										<img src="/img/about/greeting_photo.png" alt="" />
+										<img src="../img/about/greeting_photo.png" alt="" />
 									</li>
 									<li class="txt1">
 										Hanyang University Center for Global Entrepreneurship was established in July 2009 for the first time in Korean university to cultivate sound entrepreneurship to students and entrepreneurs of early startups and foster ‘prepared technical startup entrepreneurs’, by teaching the live on-site experiences and practical wisdom of entrepreneurs.<br />
@@ -28,7 +28,7 @@
 										Thank you very much. 
 									</li>
 									<li class="btm">
-										<img src="/img/about/sign.png" alt="" /><br />
+										<img src="../img/about/sign.png" alt="" /><br />
 										Head of Center for Global Entrepreneurship , Hanyang University<br />
 										Head of Business Incubator Center, Hanyang University<br />
 										President of Hanyang Angel Club
@@ -41,9 +41,9 @@
 
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

@@ -60,7 +60,7 @@
 			<h2 class="main_content_tit">Notice &amp; News</h2>
 			<ul>
 				<li><div>
-						<img src="/img/main/main_news-01.png" alt="" />
+						<img src="../img/main/main_news-01.png" alt="" />
 						<dl>
 							<dt>2016 Hanyang Startup Lounge</dt>
 							<dd>Entrepreneurship Center, prospective entrepreneurs and beginning ...</dd>
@@ -71,7 +71,7 @@
 					<a href="eng_sub_4startupinfo_1.php"  class="notice_thumb"></a>
 					</li>
 				<li><div>
-						<img src="/img/main/main_news-02.png" alt="" />
+						<img src="../img/main/main_news-02.png" alt="" />
 						<dl>
 							<dt>Global Entrepreneurship</dt>
 							<dd>Education: Lectures focusing on practice rather than simply delivering...</dd>
@@ -92,7 +92,7 @@
 					<a href="eng_sub_4startupinfo_1.php" class="notice_thumb"></a>
 					</li>
 				<li><div>
-						<img src="/img/main/main_news-03.png" alt="" />
+						<img src="../img/main/main_news-03.png" alt="" />
 						<dl>
 							<dt>Major Overview</dt>
 							<dd>Department: Global Entrepreneurship Center (university-industry cons...</dd>

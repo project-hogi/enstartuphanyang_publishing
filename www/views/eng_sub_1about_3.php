@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -40,16 +40,16 @@
 									Continuous succession and development of founding principles and practical scholasticism of Hanyang University that has been a hub of national development by cultivating practical talent resources.
 								</p>
 								<p class="img1">
-									<img src="/img/about/about_img1.png" alt="" />
+									<img src="../img/about/about_img1.png" alt="" />
 								</p>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 								<h3 id="vision">
 									Vision &amp; Mission
 								</h3>
 								<p class="img2">
-									<img src="/img/about/vision_img1.png" alt="" />
+									<img src="../img/about/vision_img1.png" alt="" />
 								</p>
 								<ol class="vision">
 									<li>
@@ -69,7 +69,7 @@
 									</li>
 								</ol>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 								<h3 id="major">
 									Major Business
@@ -145,7 +145,7 @@
 									</li>
 								</ul>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 								<h3 id="history">
 									History
@@ -250,16 +250,16 @@
 									The organization of Center for Global Entrepreneurship acts as the control tower of venture · startup support and is consisted of the Head of Center, Vice-Head of Center, General Team Head, and staff members. It also has advisory committee, mentor group, and various small committees to run the center smoothly.
 								</p>
 								<p class="img3">
-									<img src="/img/about/organ_img1.png" alt="" />
+									<img src="../img/about/organ_img1.png" alt="" />
 								</p>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 								<h3 id="directions">
 									Directions
 								</h3>
 								<p class="img4">
-									<img src="/img/about/directions_img1.png" alt="" />
+									<img src="../img/about/directions_img1.png" alt="" />
 								</p>
 								<ul class="directions">
 									<li>
@@ -289,7 +289,7 @@
 									</li>
 								</ul>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 							</div><!-- //center-for --></div>
 			</div><!-- //container -->
@@ -298,9 +298,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

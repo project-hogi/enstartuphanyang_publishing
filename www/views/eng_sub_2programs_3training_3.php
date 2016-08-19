@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -80,7 +80,7 @@
 									</li>
 								</ul>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 								<h3 id="domestic">
 									Domestic Startup Internships
@@ -131,7 +131,7 @@
 									</li>
 								</ul>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 							</div><!-- //training_internships --></div>
 			</div><!-- //container -->
@@ -140,9 +140,9 @@
 
 </div><!-- //wrap -->
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

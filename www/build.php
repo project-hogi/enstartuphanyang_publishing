@@ -13,7 +13,7 @@ fileCopy("js", "../html/js");
 
 function requirePhpInPath($inputDir, $outputDir)
 {
-    $realPath = __DIR__ . "/" . $inputDir;
+    $realPath = __DIR__ . "../" . $inputDir;
     
     if (! is_dir($realPath)) {
         return;
@@ -29,7 +29,7 @@ function requirePhpInPath($inputDir, $outputDir)
         if (strpos($file, '.php') === false)
             continue;
         
-        requirePhp($inputDir . "/" . $file, $outputDir . "/" . str_replace(".php", ".html", $file));
+        requirePhp($inputDir . "../" . $file, $outputDir . "../" . str_replace(".php", ".html", $file));
     }
 }
 
@@ -42,17 +42,17 @@ function requirePhp($input, $output)
     require $input;
     $content = ob_get_contents();
     $content = str_replace("{pageClasses}", getBodyClassByPath($input), $content);
-    $content = str_replace("/resources", "../resources", $content);
+    $content = str_replace("../resources", "../resources", $content);
     $content = str_replace(".php", ".html", $content);
     
     ob_end_clean();
     
-    $dirname = dirname(__DIR__ . "/" . $output);
+    $dirname = dirname(__DIR__ . "../" . $output);
     if (! is_dir($dirname)) {
         mkdir($dirname, 0755, true);
     }
     
-    $handle = fopen(__DIR__ . "/" . $output, "w");
+    $handle = fopen(__DIR__ . "../" . $output, "w");
     fwrite($handle, $content);
     fclose($handle);
 }

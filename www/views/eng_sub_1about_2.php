@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -17,7 +17,7 @@
 									Hanyang Startup Lounge is an open platform where Hanyang University Center for Global Entrepreneurship, prospective entrepreneurs and beginning entrepreneurs, and the professional mentors of each field the networks of information exchange and cooperation networks.
 								</p>
 								<p class="img1">
-									<img src="/img/about/startup_img1.png" alt="" />
+									<img src="../img/about/startup_img1.png" alt="" />
 								</p>
 								<h3>Main Functions</h3>
 								<ul>
@@ -69,9 +69,9 @@
 </div><!-- //wrap -->
 
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>

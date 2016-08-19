@@ -1,9 +1,9 @@
 
-    <?php require(str_replace("views", "inc", __DIR__) . "//head_sub.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//head_sub.php")  ?>
 <body>  
 <div id="wrap">
 <div class="wrap">
-    <?php require(str_replace("views", "inc", __DIR__) . "//header.php")  ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//header.php")  ?>
 	
 	
 	
@@ -67,7 +67,7 @@
 									</li>
 								</ul>
 								<p class="img1">
-									<img src="/img/programs/mentoring_img1.png" alt="" />
+									<img src="../img/programs/mentoring_img1.png" alt="" />
 								</p>
 								<ul class="txt2">
 									<li>
@@ -81,7 +81,7 @@
 									</li>
 								</ul>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 								<h3 id="mentors">
 									Mentor’s on Call
@@ -115,10 +115,10 @@
 									</li>
 								</ul>
 								<p class="img2">
-									<img src="/img/programs/mentors_img1.png" alt="" />
+									<img src="../img/programs/mentors_img1.png" alt="" />
 								</p>
 								<p class="top">
-									<a href="#"><img src="/img/about/top.png" alt="" /></a>
+									<a href="#"><img src="../img/about/top.png" alt="" /></a>
 								</p>
 							</div><!-- //networking_mentoring --></div>
 			</div><!-- //container -->
@@ -127,9 +127,9 @@
 
 </div><!-- //wrap -->
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//footer.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//footer.php") ?>
     
-    <?php require(str_replace("views", "inc", __DIR__) . "//js.php") ?>
+    <?php require(str_replace("views", "inc", __DIR__) . "..//js.php") ?>
 </div><!-- //wrap -->
 </body>
 </html>
