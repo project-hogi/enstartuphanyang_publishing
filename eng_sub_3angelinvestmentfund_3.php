@@ -25,12 +25,12 @@
 									</li>
 									<li>
 										ㆍCrowd funding is a compound term of English word ‘crowd’ that means mass of people and ‘funding’ that means financing. It refers to an act of
-										creative entrepreneurs or fund demanders raising funds from  many and unspecified small investors through crowd funding brokerages who
-										intermediate financing from online such as the internet. 
+										creative &nbsp;&nbsp;&nbsp;entrepreneurs or fund demanders raising funds from  many and unspecified small investors through crowd funding brokerages who
+										intermediate financing &nbsp;&nbsp;&nbsp;from online such as the internet. 
 									</li>
 									<li>
 										ㆍUnlike indirect finance through financial intermediaries (e.g. banks), crowd funding is based on the development of IT technology in which
-										finance suppliers connected via online such as the Internet have direct transactions through crowd funding platforms as a form of P2P
+										finance suppliers &nbsp;&nbsp;&nbsp;connected via online such as the Internet have direct transactions through crowd funding platforms as a form of P2P
 										(peer to peer) finance. 
 									</li>
 								</ul>
@@ -38,7 +38,7 @@
 									Types of Crowd Funding
 								</h4>
 								<p class="txt1">
-									ㆍCrowd funding can be divided into donation/sponsorship type, loan type, and securities type (investment type) according to the fundraising and compensation method.
+									ㆍCrowd funding can be divided into donation/sponsorship type, loan type, and securities type (investment type) according to the fundraising and &nbsp;&nbsp;&nbsp;compensation method.
 								</p>
 								<ul class="num-list">
 									<li>

@@ -24,9 +24,9 @@
 											</dt>
 											<dd>
 												ㆍProvide the opportunities to attract youth startup fund investment for promising youth startups<br />
-												ㆍFoster promising companies through a stable funds support in long-term to youth startups that have early startup technology but lack funds<br />
+												ㆍFoster promising companies through a stable funds support in long-term to youth startups that have early startup &nbsp;&nbsp;&nbsp;technology but lack funds<br />
 												ㆍSupport a smooth circulation of funds in the company’s each growth stage such as establishment, growth, and exit<br />
-												ㆍProvide follow-up support for entrepreneurs participating in all startup education and programs hosted/sponsored by Hanyang University
+												ㆍProvide follow-up support for entrepreneurs participating in all startup education and programs hosted/sponsored by &nbsp;&nbsp;&nbsp;Hanyang University
 											</dd>
 										</dl>
 									</li>

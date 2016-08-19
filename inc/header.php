@@ -15,8 +15,8 @@
 					<a href="eng_sub_2programs_1education_1.php">Programs</a>
 					<ul class="sgnb">
 						<li><a href="eng_sub_2programs_1education_1.php">Education</a></li>
-						<li><a href="eng_sub_2programs_2networking_1.php">Networking</a></li>
 						<li><a href="eng_sub_2programs_3training_1.php">Training</a></li>
+						<li><a href="eng_sub_2programs_2networking_1.php">Networking</a></li>
 						<li><a href="eng_sub_2programs_4incubating_1.php">Incubating</a></li> 
 					</ul>
 				</li>

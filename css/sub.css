@@ -343,7 +343,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f79312; height
 #angel_crowd ul.num-list li dt span {display:inline-block; padding-right:20px; color:#fff;}
 #angel_crowd ul.num-list li dd {padding-bottom:14px; line-height:18px; padding-left:20px;}
 #angel_crowd ul.txt2 {padding-bottom:20px;}
-#angel_crowd ul.txt2 li {line-height:24px;}
+#angel_crowd ul.txt2 li {line-height:24px;padding-left: 20px;text-indent: -14px;}
 #angel_crowd ul.txt2 li strong {font-weight:600;}
 #angel_crowd ul.btm_list {overflow:hidden;}
 #angel_crowd ul.btm_list li {float:left; width:493px; height:430px; padding-right:10px; padding-bottom:10px;}
@@ -369,7 +369,7 @@ ul.incubating_tab li.selected a {background-color:#fafafa; color:#f79312; height
 #info_notice ul.notice li.img_y dl dt {padding-left:260px; padding-top:26px;}
 #info_notice ul.notice li.img_y dl dt span {display:inline-block; width:55px; height:25px; background-color:#f7931e; border-radius:4px; color:#fff; text-align:center; line-height:25px; letter-spacing:-0.05em; margin-right:8px;}
 #info_notice ul.notice li.img_y dl dt a {color:#000; font-weight:bold; line-height:25px;}
-#info_notice ul.notice li.img_y dl dd.con {padding-left:260px; width:670px; line-height:20px; font-size:13px; color:#4c4c4c; padding-top:8px;}
+#info_notice ul.notice li.img_y dl dd.con {padding-left:260px; width:670px;height: 70px;overflow: hidden; line-height:20px; font-size:13px; color:#4c4c4c; padding-top:8px;}
 #info_notice ul.notice li.img_y dl dd.btm {position:absolute; top:126px; left:260px;}
 #info_notice ul.notice li.img_y dl dd.btm span {display:inline-block;}
 #info_notice ul.notice li.img_y dl dd.btm span.admin {padding-left:20px; width:45px; background:url('../img/info/bg_admin.png') no-repeat 0 50%; font-size:11px; color:#777;}
