@@ -44,10 +44,7 @@
 .notice ul li div span.new_g,
 .notice ul li div span.new_b{display: block;width: 20px;height: 20px;background: url(../img/main/new_g.png)no-repeat 0 0;position: absolute;right: 20px;top: 20px;z-index: 10;}
 .notice ul li div span.new_b{background-image: url(../img/main/new_b.png);}
-#con_bottom{width: 1090px;height: 99px;margin: auto;
-	background-image: url(../img/main/main_bar.jpg);
-	background-repeat: no-repeat;
-}
+
 .program{padding-top: 45px;}
 .program h2{}
 .program ul{margin: 45px 0;}

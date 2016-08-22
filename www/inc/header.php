@@ -57,6 +57,6 @@
 		
 	</header><!-- //header -->
 	<div id="menu">
-		<p><a href="#"><img src="../img/menu_btn.png" alt="menu btn" /></a></p>
+		<p><a href="#" class="sitemap_open"><img src="../img/menu_btn.png" alt="menu btn" /></a></p>
 	</div><!-- //menu -->
 </div><!-- //headerwrap -->

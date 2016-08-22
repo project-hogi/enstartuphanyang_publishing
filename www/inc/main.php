@@ -125,8 +125,5 @@
 		
 		
 	</div>
-	<div id="con_bottom">
-		
-	</div>
 </div>
 
