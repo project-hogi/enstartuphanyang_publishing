@@ -76,7 +76,27 @@ $(function(){
 	
 	
 	
+	$('body').attr('iframe-loading-count', 0);
+	$('body').attr('iframe-count', $('iframe[src^="/front"]').size());
 	
+	$('body').each(function(){
+		if(!parent)
+			return;
+		
+		var $body = $('body', parent.document);
+		var $iframe = $('iframe', parent.document);
+		var $wrap = $('#content');
+		
+		if($body.attr('iframe-loading-count') * 1 < $body.attr('iframe-count') * 1){
+			$body.attr('iframe-loading-count', $body.attr('iframe-loading-count') * 1 + 1);
+		}else{
+			$(parent.window).scrollTop($iframe.offset().top - 100);
+		}
+		
+		setInterval(function(){
+			$iframe.height($wrap.height());
+		}, 100);
+	});
 	
 	
 })
