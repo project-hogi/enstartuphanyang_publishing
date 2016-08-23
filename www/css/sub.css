@@ -60,15 +60,15 @@
 #center-for ul.directions li dl dd {float:left; width:660px; line-height:24px;}
 
 /* Programs tab wrap */
-.programs_tab {height:49px; background:url('../img/about/gray_border.png') repeat-x center bottom;}
+.programs_tab {height:47px; background:url('../img/about/gray_border.png') repeat-x center bottom;}
 
 /* Programs - Education */
 ul.education_tab {overflow:hidden; width:999px; margin:0 auto; border-left:1px solid #dadada;}
-ul.education_tab li {float:left; width:249px; border-right:1px solid #dadada; height:49px;}
+ul.education_tab li {float:left; width:249px; border-right:1px solid #dadada; height:47px;}
 ul.education_tab li.last {width:248px;}
 ul.education_tab li a {display:block; width:249px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
 ul.education_tab li.last a {width:248px;}
-ul.education_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
+ul.education_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;border-right:1px solid #dadada;}
 
 /* Education - Major in Entrepreneurship */
 #education_major {padding-top:60px;}
@@ -122,11 +122,11 @@ ul.education_tab li.selected a {background-color:#fafafa; color:#f79312; height:
 
 /* Programs - Networking */
 ul.networking_tab {overflow:hidden; width:999px; margin:0 auto; border-left:1px solid #dadada;}
-ul.networking_tab li {float:left; width:498px; border-right:1px solid #dadada; height:49px;}
+ul.networking_tab li {float:left; width:498px; border-right:1px solid #dadada; height:47px;}
 ul.networking_tab li.last {width:499px;}
 ul.networking_tab li a {display:block; width:498px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
 ul.networking_tab li.last a {width:499px;}
-ul.networking_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
+ul.networking_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;border-right:1px solid #dadada;}
 
 /* Networking - Forums */
 #networking_forums {padding-top:60px;}
@@ -180,9 +180,9 @@ ul.networking_tab li.selected a {background-color:#fafafa; color:#f79312; height
 
 /* Programs - Training */
 ul.training_tab {overflow:hidden; width:999px; margin:0 auto; border-left:1px solid #dadada;}
-ul.training_tab li {float:left; width:332px; border-right:1px solid #dadada; height:49px;}
+ul.training_tab li {float:left; width:332px; border-right:1px solid #dadada; height:47px;}
 ul.training_tab li a {display:block; width:332px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
-ul.training_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
+ul.training_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;border-right:1px solid #dadada;}
 
 /* Training - Competitions */
 #training_competitions {padding-top:60px;}
@@ -261,11 +261,11 @@ ul.training_tab li.selected a {background-color:#fafafa; color:#f79312; height:4
 
 /* Programs - Incubating */
 ul.incubating_tab {overflow:hidden; width:999px; margin:0 auto; border-left:1px solid #dadada;}
-ul.incubating_tab li {float:left; width:249px; border-right:1px solid #dadada; height:49px;}
+ul.incubating_tab li {float:left; width:249px; border-right:1px solid #dadada; height:47px;}
 ul.incubating_tab li.last {width:248px;}
 ul.incubating_tab li a {display:block; width:249px; height:49px; text-align:center; line-height:49px; font-size:16px; color:#8c8c8c; font-weight:bold;}
 ul.incubating_tab li.last a {width:248px;}
-ul.incubating_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;}
+ul.incubating_tab li.selected a {background-color:#fafafa; color:#f79312; height:46px; border-bottom:3px solid #f79312;border-right:1px solid #dadada;}
 
 /* Incubating - Center for Business Incubation */
 #incubating_center {padding-top:50px;}

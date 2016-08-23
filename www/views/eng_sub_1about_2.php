@@ -8,7 +8,15 @@
 	
 	
 		<div id="containerwrap">
-			<div id="container"><div class="conwrap">
+			<div id="container">
+				<div class="conwrap">
+					<div style="text-align:center;">
+						<img src="/img/ready.jpg" alt="준비중입니다." />
+					</div>		
+							
+							
+							
+							<!-- 
 							<div id="startup_lounge">
 								<p class="txt1">
 									Open platform of information exchange and cooperation networks!
@@ -62,7 +70,11 @@
 										</dl>
 									</li>
 								</ul>
-							</div><!-- //startup_lounge --></div>
+							</div>
+							-->
+							<!-- //startup_lounge -->
+				</div>
+				<!-- //conwrap -->
 			</div><!-- //container -->
 		</div><!-- //containerwrap -->
 

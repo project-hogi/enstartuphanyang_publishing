@@ -11,6 +11,7 @@
 					</div>
 				</li>
 			</ul>
+			<!-- 
 			<div class="control">
 				<a href="#none" class="btn_prev"></a>
 				<a href="#none" class="btn_next"></a>
@@ -20,7 +21,7 @@
 				<a href="#none"></a>
 				<a href="#none"></a>
 			</div>
-			
+			 -->
 		</article>
 	</section>
 	<section class="visual_banner">

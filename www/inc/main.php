@@ -55,7 +55,7 @@
 			<!-- //.conwrap -->
 		</div>
 		<!-- //.innovation  -->
-		<div class="notice" >
+		<!-- div class="notice" >
 		<div class="conwrap">
 			<h2 class="main_content_tit">Notice &amp; News</h2>
 			<ul>
@@ -105,8 +105,7 @@
 			</ul>
 			
 		</div>
-		<!-- //.conwrap -->
-		</div><!-- //notice -->
+		</div --><!-- //notice -->
 		<div class="program">
 			<div class="conwrap">
 				<h2 class="main_content_tit">Program</h2>
@@ -124,9 +123,6 @@
 		<!-- /.program -->
 		
 		
-		
-	</div>
-	<div id="con_bottom">
 		
 	</div>
 </div>

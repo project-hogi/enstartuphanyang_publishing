@@ -45,7 +45,8 @@ a{
 	font-size: 14px;line-height: 1.5;font-family:"nanum";text-decoration: none;
 }
 a:hover, a:active, a:focus{
-	color:#333
+	color:#333;
+	text-decoration: none;
 }
 .hide{
 	overflow: hidden;text-indent: -99999em;visibility: hidden;font-size: 0;line-height: 0;position: absolute;left: 0;top: 0;width: 0;

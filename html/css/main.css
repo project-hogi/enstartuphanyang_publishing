@@ -8,17 +8,18 @@
 	width: 100px;height: 2px;background-color: #01256e;
 	position: absolute;left: 50%;bottom: 0;margin-left: -50px;
 }
-.innovation .text_box{margin-top: 45px;color:#fff;letter-spacing:-1px;height: 454px;padding: 40px;background: #6d758c url(../img/main/text_box_bg.png)no-repeat 111% 120%;border-radius:25px;}
+.innovation .text_box{margin-top: 45px;color:#fff;letter-spacing:-1px;height: 515px;padding: 40px;background: #6d758c url(../img/main/text_box_bg.png)no-repeat 111% 120%;border-radius:25px;}
+.text_box li{letter-spacing: 1px;}
 .text_box dl{padding-bottom: 20px;margin-bottom: 20px;border-bottom: 1px solid #a5a9b8;}
 .text_box dl:after{clear: both;display: block;content: '';}
 .text_box dl dt{float: left;font-size: 18px;}
-.text_box dl dd{padding-left:330px;font-size: 12px;}
+.text_box dl dd{padding-left:330px;font-size: 12px;line-height: 1.2;}
 .text_box dl dd strong{font-size: 14px;}
 .text_box table{clear: both;color:#fff;width: 650px;}
 .text_box table tr{height: 34px;border-top: 1px solid #a5a9b8;} 
 .text_box table tr:first-child{border-top: none;} 
-.text_box table tr th{font-weight: bold;font-size: 16px;width: 260px;vertical-align: middle;border-right: 1px solid #a5a9b8;}
-.text_box table tr td{font-weight: normal;font-size: 12px;vertical-align: middle;line-height: 14px;padding-left: 20px;letter-spacing:-0.7}
+.text_box table tr th{font-weight: bold;font-size: 16px;width: 260px;vertical-align: middle;border-right: 1px solid #a5a9b8;line-height: 1.2;}
+.text_box table tr td{font-weight: normal;font-size: 12px;vertical-align: middle;line-height: 14px;padding-left: 20px;letter-spacing: 1px;line-height: 1.2;}
 
 .notice{padding-top: 45px;}
 .notice ul{margin-top: 45px;}
